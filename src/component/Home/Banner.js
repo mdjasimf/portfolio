@@ -4,16 +4,16 @@ import jasim from '../../jasim.png'
 const Banner = () => {
     return (
         <div>
-            <div class="hero min-h-screen bg-base-200">
-                <div class="hero-content flex-col lg:flex-row-reverse">
+            <div className="hero min-h-screen bg-base-200">
+                <div className="hero-content flex-col lg:flex-row-reverse">
                     <div>
                         <img src={jasim} />
                     </div>
                     <div className='mr-5'>
                         <h1>hi there!</h1>
-                        <h1 class="text-6xl font-bold">I AM JASIM</h1>
-                        <p class="py-6">A PROFESSIONAL WEB DEVELOPER</p>
-                        <button class="btn btn-primary"><a href="https://drive.google.com/file/d/1JaH92RiISIIhnKjy34BEjMXBeN4G-uiS/view?usp=sharing">DOWNLOAD MY RESUME</a></button>
+                        <h1 className="text-6xl font-bold">I AM JASIM</h1>
+                        <p className="py-6">A PROFESSIONAL WEB DEVELOPER</p>
+                        <button className="btn btn-primary"><a href="https://drive.google.com/u/0/uc?id=1JaH92RiISIIhnKjy34BEjMXBeN4G-uiS&export=download">DOWNLOAD MY RESUME</a></button>
                     </div>
                 </div>
             </div>
