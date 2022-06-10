@@ -13,7 +13,7 @@ const Banner = () => {
                         <h1>hi there!</h1>
                         <h1 className="text-6xl font-bold">I AM JASIM</h1>
                         <p className="py-6">A PROFESSIONAL WEB DEVELOPER</p>
-                        <button className="btn btn-primary"><a href="https://drive.google.com/u/0/uc?id=1JaH92RiISIIhnKjy34BEjMXBeN4G-uiS&export=download">DOWNLOAD MY RESUME</a></button>
+                        <button className="btn btn-primary"><a href="https://drive.google.com/u/0/uc?id=15NesVV4UX6a0p1neM3LQI6PQrocfkVOe&export=download">DOWNLOAD MY RESUME</a></button>
                     </div>
                 </div>
             </div>
