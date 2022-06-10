@@ -22,9 +22,9 @@ const Project1 = () => {
                 </div>
                 <div class="card-body items-center text-center">
                     <div class="card-actions flex justify-center">
-                        <button className='btn btn-outline'><a href="https://my-12-assignment.web.app/" target="_blank">live link</a></button>
-                        <button className='btn btn-outline'><a href="https://github.com/mdjasimf/my-12-assignment" target="_blank">github client link</a></button>
-                        <button className='btn btn-outline'><a href="https://github.com/mdjasimf/my-12-server" target="_blank">github server link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://my-12-assignment.web.app/" target="_blank">live link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://github.com/mdjasimf/my-12-assignment" target="_blank">github client link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://github.com/mdjasimf/my-12-server" target="_blank">github server link</a></button>
                     </div>
                     <div>
                         <p>This a metalwork manufacturer website. The technology I used to create this website tht is react, react router, react hook form,firebase ,react firebase hook, daisyui framework,react query ,axios and normal fetch for load data,mongodb for store data, heroku for deploy server site etc</p>

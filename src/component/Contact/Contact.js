@@ -13,7 +13,7 @@ const Contact = () => {
                             <input class="input w-80 input-bordered my-2" type="email" name="email" placeholder="Your email" />
                             <input class="input w-80 input-bordered my-2" type="text" name="name" placeholder="Your name" />
                             <textarea class="input w-80 input-bordered my-2" name="message" placeholder="Write Details" /><br />
-                            <button className='btn btn-outline btn-success w-80' type="submit">Send</button>
+                            <button className='btn btn-primary btn-success w-80' type="submit">Send</button>
                         </form>
                     </div>
                 </div>

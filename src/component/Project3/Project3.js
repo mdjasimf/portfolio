@@ -21,8 +21,8 @@ const Project3 = () => {
                 </div>
                 <div class="card-body items-center text-center">
                     <div class="card-actions flex justify-center">
-                        <button className='btn btn-outline'><a href="https://my-10th-assignment.web.app/?fbclid=IwAR0hA1mo2ywAKnGrqm2Y7iR5qXJiy2IzJnxM82OrP4IGsRN93XK1j-3wU2Q" target="_blank">live link</a></button>
-                        <button className='btn btn-outline'><a href="https://github.com/mdjasimf/my-10-assignment" target="_blank">github client link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://my-10th-assignment.web.app/?fbclid=IwAR0hA1mo2ywAKnGrqm2Y7iR5qXJiy2IzJnxM82OrP4IGsRN93XK1j-3wU2Q" target="_blank">live link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://github.com/mdjasimf/my-10-assignment" target="_blank">github client link</a></button>
                     </div>
                     <div>
                         <p>This a health couch website. The technology I used to create this website that react,react router and bootstrap framework. Email and google login system implemented.

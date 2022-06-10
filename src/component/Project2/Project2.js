@@ -21,9 +21,9 @@ const Project2 = () => {
                 </div>
                 <div class="card-body items-center text-center">
                     <div class="card-actions flex justify-center">
-                        <button className='btn btn-outline'><a href="https://my-11th-assignment.firebaseapp.com/" target="_blank">live link</a></button>
-                        <button className='btn btn-outline'><a href="https://github.com/mdjasimf/my-11th-assignment" target="_blank">github client link</a></button>
-                        <button className='btn btn-outline'><a href="https://github.com/mdjasimf/my-11th-assignment-server" target="_blank">github server link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://my-11th-assignment.firebaseapp.com/" target="_blank">live link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://github.com/mdjasimf/my-11th-assignment" target="_blank">github client link</a></button>
+                        <button className='btn btn-primary hover:scale-110 hover:bg-indigo-500 duration-700'><a href="https://github.com/mdjasimf/my-11th-assignment-server" target="_blank">github server link</a></button>
                     </div>
                     <div>
                         <p>This a warehouse website. The technology I used to create this website tht is react, react router,firebase ,react firebase hook, bootstrap framework, normal fetch for load data,mongodb for store data, heroku for deploy server site etc</p>
